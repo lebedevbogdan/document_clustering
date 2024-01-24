@@ -1,0 +1,9 @@
+ .gitignore
+ .DS_Store
+__pycache__
+.idea
+.ipynb_checkpoints
+*.csv
+*.py
+*.ipynb
+*.xlsx
